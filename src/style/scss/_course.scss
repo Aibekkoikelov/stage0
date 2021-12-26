@@ -1,0 +1,9 @@
+.course{
+   &__item{
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 40px;
+      color: $whiteColor;
+      margin-top: 10px;
+   }
+}
