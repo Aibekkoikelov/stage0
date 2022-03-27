@@ -35,7 +35,7 @@ cons arr = async (url) => {
     if (!res.ok){
         return throw new Error()
     }
-    return await res.json()
+    return await res.json() 
 }
 ```
 ## **English**
